@@ -1,16 +1,27 @@
-## Hi there 👋
+### Olá, eu sou o Vicente Ely 👋
 
-<!--
-**VicenteEly/VicenteEly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend com foco em **Java** e ecossistema **Spring**, cursando Ciência da Computação (UniRitter). Atualmente trabalho na área de Tecnologia e estou expandindo minha stack com **Python** voltado para automação de processos, manipulação de dados e integração de APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack & Ferramentas
+
+- **Linguagens:** Java, Python, SQL
+- **Backend & Testes:** Spring Boot, APIs REST, JPA/Hibernate, JUnit, JaCoCo, Gradle
+- **Banco de Dados:** Modelagem Relacional, PostgreSQL / MySQL
+- **Ambiente & DevOps:** Git, GitHub, Linux (Debian/Ubuntu), WSL, Windows
+
+---
+
+### Projetos em Destaque
+
+- **[T1-Colaboradores](https://github.com/DiogoFernandess/T1-Colaboradores)** — Sistema de folha de pagamento e gestão de colaboradores desenvolvido em equipe com Java, Spring Boot, banco de dados relacional e testes de integração.
+- **[Estacionamento Rotativo](https://github.com/DiogoFernandess/estacionamento-rotativo)** — Aplicação backend em Java para controle de fluxo e regras de negócio de estacionamento.
+- **[Problema de Josephus](https://github.com/VicenteEly/Problema-de-Josephus)** — Implementação em Java focada em lógica de programação e estruturas de dados.
+
+---
+
+### Contato
+
+- **LinkedIn:** [linkedin.com/in/vicente-ely-sobral-da-silva](https://www.linkedin.com/in/vicente-ely-sobral-da-silva-05a76434a)
+- **E-mail:** vicenteely2006@gmail.com
