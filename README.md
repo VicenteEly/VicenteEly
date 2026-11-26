@@ -1,23 +1,22 @@
 ### Olá, eu sou o Vicente Ely 👋
 
-Desenvolvedor Backend com foco em **Java** e ecossistema **Spring**, cursando Ciência da Computação (UniRitter). Atualmente trabalho na área de Tecnologia e estou expandindo minha stack com **Python** voltado para automação de processos, manipulação de dados e integração de APIs.
+Estudante de **Ciência da Computação** (UniRitter) e profissional de TI em transição para a área de desenvolvimento. Tenho base em **Java (Orientação a Objetos)** e atualmente foco meus estudos em **Python** para automação de tarefas e manipulação de dados, além de fundamentos de **Bancos de Dados Relacionais**.
 
 ---
 
-### Stack & Ferramentas
+### Tecnologias & Ferramentas
 
-- **Linguagens:** Java, Python, SQL
-- **Backend & Testes:** Spring Boot, APIs REST, JPA/Hibernate, JUnit, JaCoCo, Gradle
-- **Banco de Dados:** Modelagem Relacional, PostgreSQL / MySQL
-- **Ambiente & DevOps:** Git, GitHub, Linux (Debian/Ubuntu), WSL, Windows
+- **Base & Prática:** Java (POO), Git, GitHub, Lógica de Programação, Qualidade de Software (Testes)
+- **Estudando Atualmente:** Python (Automação e Scripts), SQL e Bancos de Dados Relacionais
+- **Ambientes:** Windows, Linux (noções de terminal e VMs), VS Code, IntelliJ
 
 ---
 
-### Projetos em Destaque
+### Projetos & Contribuições
 
-- **[T1-Colaboradores](https://github.com/DiogoFernandess/T1-Colaboradores)** — Sistema de folha de pagamento e gestão de colaboradores desenvolvido em equipe com Java, Spring Boot, banco de dados relacional e testes de integração.
-- **[Estacionamento Rotativo](https://github.com/DiogoFernandess/estacionamento-rotativo)** — Aplicação backend em Java para controle de fluxo e regras de negócio de estacionamento.
-- **[Problema de Josephus](https://github.com/VicenteEly/Problema-de-Josephus)** — Implementação em Java focada em lógica de programação e estruturas de dados.
+- **[T1-Colaboradores](https://github.com/DiogoFernandess/T1-Colaboradores)** — Projeto acadêmico em equipe de um sistema de folha de pagamento em Java. Atuei na parte de **Qualidade de Software**, implementando testes de integração e correções de bugs.
+- **[Estacionamento Rotativo](https://github.com/DiogoFernandess/estacionamento-rotativo)** — Colaboração em projeto acadêmico desenvolvido em Java para controle de fluxo de veículos.
+- **[Problema de Josephus](https://github.com/VicenteEly/Problema-de-Josephus)** — Projeto individual em Java focado em lógica de programação e estruturas de dados.
 
 ---
 
