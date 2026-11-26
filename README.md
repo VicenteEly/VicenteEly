@@ -24,4 +24,4 @@ Desenvolvedor Backend com foco em **Java** e ecossistema **Spring**, cursando Ci
 ### Contato
 
 - **LinkedIn:** [linkedin.com/in/vicente-ely-sobral-da-silva](https://www.linkedin.com/in/vicente-ely-sobral-da-silva-05a76434a)
-- **E-mail:** vicenteely2006@gmail.com
+- **E-mail:** vicenteelysobral@gmail.com
